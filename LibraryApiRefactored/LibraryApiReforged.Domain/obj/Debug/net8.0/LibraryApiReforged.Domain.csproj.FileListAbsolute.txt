@@ -1,0 +1,12 @@
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\bin\Debug\net8.0\LibraryApiReforged.Domain.deps.json
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\bin\Debug\net8.0\LibraryApiReforged.Domain.dll
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\bin\Debug\net8.0\LibraryApiReforged.Domain.pdb
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.AssemblyInfoInputs.cache
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.AssemblyInfo.cs
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.sourcelink.json
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.dll
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\refint\LibraryApiReforged.Domain.dll
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\LibraryApiReforged.Domain.pdb
+C:\Users\Ronal\source\repos\LibraryApiRefactored\LibraryApiReforged.Domain\obj\Debug\net8.0\ref\LibraryApiReforged.Domain.dll

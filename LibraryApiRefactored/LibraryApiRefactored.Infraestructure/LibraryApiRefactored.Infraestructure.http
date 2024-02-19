@@ -1,0 +1,6 @@
+@LibraryApiRefactored.Infraestructure_HostAddress = http://localhost:5163
+
+GET {{LibraryApiRefactored.Infraestructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
